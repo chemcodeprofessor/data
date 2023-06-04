@@ -1,2 +1,2 @@
 ## PaDel Descriptor stuff
-![alt text](sialidase.png)
+![alt text](padel.png)
